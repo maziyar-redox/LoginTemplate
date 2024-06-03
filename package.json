@@ -1,0 +1,27 @@
+{
+  "name": "login-template",
+  "version": "1.0.0",
+  "description": "\"A simple login template made with tailwindcss and pure js",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "init": "npx tailwindcss init",
+    "watch": "npx tailwindcss -i ./src/css/input.css -o ./src/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maziyar-redox/LoginTemplate.git"
+  },
+  "keywords": [
+    "login"
+  ],
+  "author": "maziyar isanezhad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maziyar-redox/LoginTemplate/issues"
+  },
+  "homepage": "https://github.com/maziyar-redox/LoginTemplate#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
