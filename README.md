@@ -19,7 +19,7 @@ Install "Login template" dependency's with npm
 ```
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at r6.acc.051@gmail.com
 
 
 ## License
